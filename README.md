@@ -7,6 +7,8 @@
   - Depósito: Podendo adicionar qualquer valor, contanto que este seja positivo.
   - Saque: Podendo sacar valores menores ou iguais a R$ 500.00 e com um limite de 3 saques por dia. Além de que só pode sacar valores inferiores ou iguais ao total da conta.
   - Consulta do Extrato: Podendo visualizar o valor total depositado, o valor total sacado e o saldo total restante na conta.
+- Cada usuário pode possuir mais de uma conta no banco DIO.
+- Dois ou mais usuários não podem ser cadastrados com o mesmo número de CPF.
  
 ## Recursos utilizados
 
